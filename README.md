@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** Lennon Virakone
+**LinkedIn:** linkedin.com/in/lennon-virakone
+**GitHub:** github.com/lsvirak85
 **Status:** In progress
 
 ---
